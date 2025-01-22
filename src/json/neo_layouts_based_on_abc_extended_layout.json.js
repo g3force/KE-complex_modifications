@@ -15,6 +15,7 @@ function main() {
   )
 }
 
+
 const ifMod3On = { type: 'variable_unless', name: 'neo2_mod_3', value: 0 }
 const ifMod4On = { type: 'variable_unless', name: 'neo2_mod_4', value: 0 }
 const ifMod4Locked = { type: 'variable_if', name: 'neo2_mod_4', value: 2 }
@@ -25,9 +26,19 @@ const isLayoutActive = {
     { input_source_id: '^com\\.apple\\.keylayout\\.USExtended$' }
   ]
 }
+const isNotExcludedApplication = {
+    "bundle_identifiers": [
+      "^com\\.vmware\\.fusion$"
+    ],
+    "type": "frontmost_application_unless"
+  }
 const setMod4 = function(value, halt) {
   return { set_variable: { name: 'neo2_mod_4', value: value }, halt: halt === true ? true : undefined }
 }
+const conditions = [
+  isLayoutActive,
+  isNotExcludedApplication,
+]
 
 const remapFromKeys = [].concat(
   ['non_us_backslash', '1', '2', '3', '4', '5', '6', '7', '8', '9', '0', 'hyphen', 'equal_sign'],
@@ -67,39 +78,47 @@ function neo2() {
 
   return {
     description: 'Neo2',
-    manipulators: [].concat(
+    manipulators: manipulators([].concat(
       modifiers('backslash'),
       eachKey({
+          // insert (ctrl+v) and undo (ctrl+z)
           fromKeys: ['c', 'b'],
           toKeys: ['v', 'z'],
           toModifiers: ['left_command'],
-          conditions: [ifMod4On, isLayoutActive]
+          conditions: [ifMod4On]
         }
       ),
       eachKey({
           fromKeys: remapFromKeys.concat(['spacebar']),
           toKeys: remapToLayer4Keys.concat(['keypad_0']),
           fromModifiers: {
-            optional: ['control', 'option', 'command']
+            optional: ['control', 'option', 'command', 'shift']
           },
-          conditions: [ifMod4On, isLayoutActive]
+          conditions: [ifMod4On]
         }
       ),
       eachKey({
           fromKeys: remapFromKeys,
           toKeys: remapToLayer3Keys,
           fromModifiers: {
-            optional: ['control', 'option', 'command']
+            optional: ['control', 'option', 'command', 'shift']
           },
-          conditions: [ifMod3On, isLayoutActive]
+          conditions: [ifMod3On]
         }
       ),
       eachKey({
           fromKeys: remapFromKeys,
           toKeys: remapToLayer2Keys,
-          conditions: [isLayoutActive],
           fromModifiers: {
-            mandatory: 'shift'
+            mandatory: 'shift',
+          }
+        }
+      ),
+      eachKey({
+          fromKeys: remapFromKeys,
+          toKeys: remapToLayer1Keys,
+          fromModifiers: {
+            optional: []
           }
         }
       ),
@@ -109,10 +128,10 @@ function neo2() {
           fromModifiers: {
             optional: 'any'
           },
-          conditions: [isLayoutActive]
+          noToKeyModifiers: true,
         }
       )
-    )
+    ))
   }
 }
 
@@ -139,7 +158,7 @@ function neoQwertz() {
           fromKeys: ['c', 'b'],
           toKeys: ['v', 'z'],
           toModifiers: ['left_command'],
-          conditions: [ifMod4On, isLayoutActive]
+          conditions: [ifMod4On]
         }
       ),
       eachKey({
@@ -148,7 +167,7 @@ function neoQwertz() {
           fromModifiers: {
             optional: ['control', 'option', 'command']
           },
-          conditions: [ifMod4On, isLayoutActive]
+          conditions: [ifMod4On]
         }
       ),
       eachKey({
@@ -157,13 +176,12 @@ function neoQwertz() {
           fromModifiers: {
             optional: ['control', 'option', 'command']
           },
-          conditions: [ifMod3On, isLayoutActive]
+          conditions: [ifMod3On]
         }
       ),
       eachKey({
           fromKeys: remapFromKeys,
           toKeys: remapToLayer2Keys,
-          conditions: [isLayoutActive],
           fromModifiers: {
             mandatory: 'shift'
           }
@@ -174,8 +192,7 @@ function neoQwertz() {
           toKeys: remapToLayer1Keys,
           fromModifiers: {
             optional: 'any'
-          },
-          conditions: [isLayoutActive]
+          }
         }
       )
     )
@@ -205,7 +222,7 @@ function bone() {
           fromKeys: ['c', 'b'],
           toKeys: ['v', 'z'],
           toModifiers: ['left_command'],
-          conditions: [ifMod4On, isLayoutActive]
+          conditions: [ifMod4On]
         }
       ),
       eachKey({
@@ -214,7 +231,7 @@ function bone() {
           fromModifiers: {
             optional: ['control', 'option', 'command']
           },
-          conditions: [ifMod4On, isLayoutActive]
+          conditions: [ifMod4On]
         }
       ),
       eachKey({
@@ -223,13 +240,12 @@ function bone() {
           fromModifiers: {
             optional: ['control', 'option', 'command']
           },
-          conditions: [ifMod3On, isLayoutActive]
+          conditions: [ifMod3On]
         }
       ),
       eachKey({
           fromKeys: remapFromKeys,
           toKeys: remapToLayer2Keys,
-          conditions: [isLayoutActive],
           fromModifiers: {
             mandatory: 'shift'
           }
@@ -240,8 +256,7 @@ function bone() {
           toKeys: remapToLayer1Keys,
           fromModifiers: {
             optional: 'any'
-          },
-          conditions: [isLayoutActive]
+          }
         }
       )
     )
@@ -285,7 +300,7 @@ function mine() {
           fromKeys: ['c', 'b'],
           toKeys: ['v', 'z'],
           toModifiers: ['left_command'],
-          conditions: [ifMod4On, isLayoutActive]
+          conditions: [ifMod4On]
         }
       ),
       eachKey({
@@ -294,7 +309,7 @@ function mine() {
           fromModifiers: {
             optional: ['control', 'option', 'command']
           },
-          conditions: [ifMod4On, isLayoutActive]
+          conditions: [ifMod4On]
         }
       ),
       eachKey({
@@ -303,13 +318,12 @@ function mine() {
           fromModifiers: {
             optional: ['control', 'option', 'command']
           },
-          conditions: [ifMod3On, isLayoutActive]
+          conditions: [ifMod3On]
         }
       ),
       eachKey({
           fromKeys: remapFromKeys,
           toKeys: remapToLayer2Keys,
-          conditions: [isLayoutActive],
           fromModifiers: {
             mandatory: 'shift'
           }
@@ -320,8 +334,7 @@ function mine() {
           toKeys: remapToLayer1Keys,
           fromModifiers: {
             optional: 'any'
-          },
-          conditions: [isLayoutActive]
+          }
         }
       )
     )
@@ -365,7 +378,7 @@ function noted() {
           fromKeys: ['c', 'b'],
           toKeys: ['v', 'z'],
           toModifiers: ['left_command'],
-          conditions: [ifMod4On, isLayoutActive]
+          conditions: [ifMod4On]
         }
       ),
       eachKey({
@@ -374,7 +387,7 @@ function noted() {
           fromModifiers: {
             optional: ['control', 'option', 'command']
           },
-          conditions: [ifMod4On, isLayoutActive]
+          conditions: [ifMod4On]
         }
       ),
       eachKey({
@@ -383,13 +396,12 @@ function noted() {
           fromModifiers: {
             optional: ['control', 'option', 'command']
           },
-          conditions: [ifMod3On, isLayoutActive]
+          conditions: [ifMod3On]
         }
       ),
       eachKey({
           fromKeys: remapFromKeys,
           toKeys: remapToLayer2Keys,
-          conditions: [isLayoutActive],
           fromModifiers: {
             mandatory: 'shift'
           }
@@ -400,8 +412,7 @@ function noted() {
           toKeys: remapToLayer1Keys,
           fromModifiers: {
             optional: 'any'
-          },
-          conditions: [isLayoutActive]
+          }
         }
       )
     )
@@ -431,7 +442,7 @@ function adnw() {
           fromKeys: ['c', 'b'],
           toKeys: ['v', 'z'],
           toModifiers: ['left_command'],
-          conditions: [ifMod4On, isLayoutActive]
+          conditions: [ifMod4On]
         }
       ),
       eachKey({
@@ -440,7 +451,7 @@ function adnw() {
           fromModifiers: {
             optional: ['control', 'option', 'command']
           },
-          conditions: [ifMod4On, isLayoutActive]
+          conditions: [ifMod4On]
         }
       ),
       eachKey({
@@ -449,13 +460,12 @@ function adnw() {
           fromModifiers: {
             optional: ['control', 'option', 'command']
           },
-          conditions: [ifMod3On, isLayoutActive]
+          conditions: [ifMod3On]
         }
       ),
       eachKey({
           fromKeys: remapFromKeys,
           toKeys: remapToLayer2Keys,
-          conditions: [isLayoutActive],
           fromModifiers: {
             mandatory: 'shift'
           }
@@ -466,8 +476,7 @@ function adnw() {
           toKeys: remapToLayer1Keys,
           fromModifiers: {
             optional: 'any'
-          },
-          conditions: [isLayoutActive]
+          }
         }
       )
     )
@@ -497,7 +506,7 @@ function koy() {
           fromKeys: ['c', 'b'],
           toKeys: ['v', 'z'],
           toModifiers: ['left_command'],
-          conditions: [ifMod4On, isLayoutActive]
+          conditions: [ifMod4On]
         }
       ),
       eachKey({
@@ -506,7 +515,7 @@ function koy() {
           fromModifiers: {
             optional: ['control', 'option', 'command']
           },
-          conditions: [ifMod4On, isLayoutActive]
+          conditions: [ifMod4On]
         }
       ),
       eachKey({
@@ -515,13 +524,12 @@ function koy() {
           fromModifiers: {
             optional: ['control', 'option', 'command']
           },
-          conditions: [ifMod3On, isLayoutActive]
+          conditions: [ifMod3On]
         }
       ),
       eachKey({
           fromKeys: remapFromKeys,
           toKeys: remapToLayer2Keys,
-          conditions: [isLayoutActive],
           fromModifiers: {
             mandatory: 'shift'
           }
@@ -532,8 +540,7 @@ function koy() {
           toKeys: remapToLayer1Keys,
           fromModifiers: {
             optional: 'any'
-          },
-          conditions: [isLayoutActive]
+          }
         }
       )
     )
@@ -577,7 +584,7 @@ function vou() {
           fromKeys: ['c', 'b'],
           toKeys: ['v', 'z'],
           toModifiers: ['left_command'],
-          conditions: [ifMod4On, isLayoutActive]
+          conditions: [ifMod4On]
         }
       ),
       eachKey({
@@ -586,7 +593,7 @@ function vou() {
           fromModifiers: {
             optional: ['control', 'option', 'command']
           },
-          conditions: [ifMod4On, isLayoutActive]
+          conditions: [ifMod4On]
         }
       ),
       eachKey({
@@ -595,13 +602,12 @@ function vou() {
           fromModifiers: {
             optional: ['control', 'option', 'command']
           },
-          conditions: [ifMod3On, isLayoutActive]
+          conditions: [ifMod3On]
         }
       ),
       eachKey({
           fromKeys: remapFromKeys,
           toKeys: remapToLayer2Keys,
-          conditions: [isLayoutActive],
           fromModifiers: {
             mandatory: 'shift'
           }
@@ -612,8 +618,7 @@ function vou() {
           toKeys: remapToLayer1Keys,
           fromModifiers: {
             optional: 'any'
-          },
-          conditions: [isLayoutActive]
+          }
         }
       )
     )
@@ -1145,6 +1150,11 @@ function modification(options, fromKeyCode, to, from) {
     key_code: fromKeyCode,
     modifiers: options.fromModifiers
   }
+  if (options.noToKeyModifiers) {
+    to = {
+      key_code: to.key_code
+    }
+  }
   return {
     type: 'basic',
     from,
@@ -1187,21 +1197,20 @@ function modifiers(secondMod3Key) {
             }
           }
         ],
-        type: 'basic',
-        conditions: [isLayoutActive]
+        type: 'basic'
       }
     }),
     {
       type: 'basic',
       from: { simultaneous: [{ key_code: 'grave_accent_and_tilde' }, { key_code: 'right_command' }] },
       to: [setMod4(2, true)],
-      conditions: [isLayoutActive, ifMod4NotLocked]
+      conditions: [ifMod4NotLocked]
     },
     {
       type: 'basic',
       from: { simultaneous: [{ key_code: 'grave_accent_and_tilde' }, { key_code: 'right_command' }] },
       to: [setMod4(0)],
-      conditions: [isLayoutActive, ifMod4Locked]
+      conditions: [ifMod4Locked]
     },
     ['grave_accent_and_tilde', 'right_command'].map(function(key) {
       return {
@@ -1213,11 +1222,17 @@ function modifiers(secondMod3Key) {
           }
         },
         to: [setMod4(1)],
-        to_after_key_up: [setMod4(0)],
-        conditions: [isLayoutActive]
+        to_after_key_up: [setMod4(0)]
       }
     })
   )
+}
+
+function manipulators(manipulators) {
+  manipulators.forEach(function(m) {
+    m.conditions = m.conditions ? m.conditions.concat(conditions) : conditions
+  })
+  return manipulators
 }
 
 main()
