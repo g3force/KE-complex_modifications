@@ -28,7 +28,8 @@ const isLayoutActive = {
 }
 const isNotExcludedApplication = {
     "bundle_identifiers": [
-      "^com\\.vmware\\.fusion$"
+      "^com\\.vmware\\.fusion$",
+      "^com\\.utmapp\\.UTM$",
     ],
     "type": "frontmost_application_unless"
   }
