@@ -30,6 +30,7 @@ const isNotExcludedApplication = {
     "bundle_identifiers": [
       "^com\\.vmware\\.fusion$",
       "^com\\.utmapp\\.UTM$",
+      "^.*TerraScape$",
     ],
     "type": "frontmost_application_unless"
   }
