@@ -31,6 +31,7 @@ const isNotExcludedApplication = {
       "^com\\.vmware\\.fusion$",
       "^com\\.utmapp\\.UTM$",
       "^.*TerraScape$",
+      "^com\\.haemimontgames\\.survivingmars\\.steam$",
     ],
     "type": "frontmost_application_unless"
   }

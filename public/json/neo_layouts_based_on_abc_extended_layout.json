@@ -34,7 +34,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -70,7 +71,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -115,7 +117,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -159,7 +162,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -202,7 +206,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -245,7 +250,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -280,7 +286,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -315,7 +322,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -356,7 +364,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -397,7 +406,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -438,7 +448,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -487,7 +498,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -527,7 +539,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -571,7 +584,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -612,7 +626,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -652,7 +667,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -692,7 +708,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -732,7 +749,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -772,7 +790,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -812,7 +831,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -853,7 +873,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -893,7 +914,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -933,7 +955,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -973,7 +996,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -1013,7 +1037,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -1053,7 +1078,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -1094,7 +1120,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -1134,7 +1161,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -1174,7 +1202,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -1214,7 +1243,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -1254,7 +1284,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -1294,7 +1325,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -1335,7 +1367,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -1375,7 +1408,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -1415,7 +1449,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -1455,7 +1490,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -1495,7 +1531,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -1535,7 +1572,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -1579,7 +1617,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -1619,7 +1658,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -1659,7 +1699,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -1699,7 +1740,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -1739,7 +1781,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -1779,7 +1822,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -1819,7 +1863,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -1859,7 +1904,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -1899,7 +1945,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -1940,7 +1987,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -1980,7 +2028,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -2020,7 +2069,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -2060,7 +2110,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -2100,7 +2151,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -2140,7 +2192,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -2180,7 +2233,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -2220,7 +2274,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -2260,7 +2315,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -2300,7 +2356,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -2344,7 +2401,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -2388,7 +2446,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -2429,7 +2488,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -2470,7 +2530,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -2514,7 +2575,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -2555,7 +2617,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -2599,7 +2662,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -2639,7 +2703,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -2680,7 +2745,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -2721,7 +2787,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -2762,7 +2829,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -2802,7 +2870,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -2842,7 +2911,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -2883,7 +2953,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -2924,7 +2995,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -2967,7 +3039,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -3008,7 +3081,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -3048,7 +3122,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -3089,7 +3164,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -3129,7 +3205,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -3169,7 +3246,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -3209,7 +3287,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -3249,7 +3328,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -3290,7 +3370,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -3331,7 +3412,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -3372,7 +3454,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -3413,7 +3496,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -3454,7 +3538,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -3495,7 +3580,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -3535,7 +3621,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -3576,7 +3663,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -3617,7 +3705,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -3658,7 +3747,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -3699,7 +3789,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -3740,7 +3831,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -3781,7 +3873,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -3821,7 +3914,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -3862,7 +3956,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -3903,7 +3998,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -3944,7 +4040,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -3984,7 +4081,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -4024,7 +4122,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -4055,7 +4154,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -4089,7 +4189,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -4120,7 +4221,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -4150,7 +4252,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -4184,7 +4287,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -4215,7 +4319,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -4246,7 +4351,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -4280,7 +4386,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -4314,7 +4421,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -4345,7 +4453,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -4379,7 +4488,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -4413,7 +4523,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -4444,7 +4555,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -4474,7 +4586,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -4505,7 +4618,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -4536,7 +4650,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -4567,7 +4682,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -4598,7 +4714,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -4628,7 +4745,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -4658,7 +4776,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -4688,7 +4807,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -4718,7 +4838,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -4748,7 +4869,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -4778,7 +4900,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -4808,7 +4931,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -4838,7 +4962,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -4868,7 +4993,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -4898,7 +5024,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -4928,7 +5055,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -4959,7 +5087,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -4989,7 +5118,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -5019,7 +5149,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -5049,7 +5180,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -5079,7 +5211,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -5109,7 +5242,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -5139,7 +5273,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -5169,7 +5304,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -5199,7 +5335,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -5229,7 +5366,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -5259,7 +5397,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -5290,7 +5429,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -5321,7 +5461,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -5351,7 +5492,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -5381,7 +5523,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -5411,7 +5554,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -5441,7 +5585,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -5471,7 +5616,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -5501,7 +5647,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -5531,7 +5678,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -5561,7 +5709,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -5591,7 +5740,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -5621,7 +5771,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -5651,7 +5802,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -5684,7 +5836,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -5721,7 +5874,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -5754,7 +5908,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -5791,7 +5946,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -5824,7 +5980,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -5861,7 +6018,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -5891,7 +6049,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -5921,7 +6080,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -5951,7 +6111,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -5981,7 +6142,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -6011,7 +6173,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -6041,7 +6204,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -6071,7 +6235,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -6101,7 +6266,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -6131,7 +6297,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -6161,7 +6328,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -6191,7 +6359,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -6221,7 +6390,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -6251,7 +6421,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -6281,7 +6452,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -6311,7 +6483,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -6341,7 +6514,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -6371,7 +6545,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -6401,7 +6576,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -6431,7 +6607,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -6461,7 +6638,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -6491,7 +6669,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -6521,7 +6700,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -6551,7 +6731,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -6581,7 +6762,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -6611,7 +6793,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -6641,7 +6824,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -6671,7 +6855,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -6701,7 +6886,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -6731,7 +6917,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -6761,7 +6948,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -6791,7 +6979,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -6821,7 +7010,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -6851,7 +7041,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -6881,7 +7072,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -6911,7 +7103,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -6941,7 +7134,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -6971,7 +7165,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -7001,7 +7196,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -7031,7 +7227,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -7061,7 +7258,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -7091,7 +7289,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -7121,7 +7320,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -7151,7 +7351,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -7184,7 +7385,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -7221,7 +7423,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -7254,7 +7457,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -7291,7 +7495,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -7324,7 +7529,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -7361,7 +7567,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -7391,7 +7598,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -7421,7 +7629,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -7451,7 +7660,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -7481,7 +7691,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -7511,7 +7722,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -7541,7 +7753,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
@@ -7571,7 +7784,8 @@
               "bundle_identifiers": [
                 "^com\\.vmware\\.fusion$",
                 "^com\\.utmapp\\.UTM$",
-                "^.*TerraScape$"
+                "^.*TerraScape$",
+                "^com\\.haemimontgames\\.survivingmars\\.steam$"
               ],
               "type": "frontmost_application_unless"
             }
