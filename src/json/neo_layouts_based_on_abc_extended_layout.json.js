@@ -30,6 +30,7 @@ const isNotExcludedApplication = {
     "bundle_identifiers": [
       "^com\\.vmware\\.fusion$",
       "^com\\.utmapp\\.UTM$",
+      "^com\\.parallels\\.desktop\\.console$",
       "^.*TerraScape$",
       "^com\\.haemimontgames\\.survivingmars\\.steam$",
     ],
